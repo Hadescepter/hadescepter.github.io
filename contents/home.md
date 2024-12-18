@@ -1,16 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Hadescepter](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Hadescepter)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Data Science, at McKelvey School of Engineering in Washington University(Washu), U.S..
 
 #### Email
-sli[at]cumt.edu.cn
+hang.yang@wustl.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+M.S., Engineering Data Analysis and Statistics, Washington University in St. Louis, U.S.,2024-2025 (expected).\
+M.E., Resources and Environment, Shanghai Jiao Tong University, China, 2020-2023.\
+B.E., Civil Engineering, Southeast University, China, 2016-2020.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Machine Learning, Artificial Intelligence, Human Interaction System.
 
