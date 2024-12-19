@@ -4,8 +4,6 @@
 
 - First Class Academic Scholarship of SJTU, 2020.
 
-- First-prize Scholarship of CUMT, 2019.
-
 - Prof. Y.S. Jiang foundation scholarship of SEU, 2019
 
 - Silver Prize (top2) in environmental engineering competition of American society of civil engineers (ASCE), U.S., 2019. [[link]](https://se-asce2019.utk.edu/results/)
