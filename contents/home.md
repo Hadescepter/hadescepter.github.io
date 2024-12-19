@@ -1,6 +1,6 @@
 
 
-[![Hadescepter](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Hadescepter)
+[![Hadescepter](https://img.shields.io/badge/hadescepter-github-blue?logo=github)](https://github.com/Hadescepter)
 
 He is currently pursuing a Master's Degree in Data Science, at McKelvey School of Engineering in Washington University(Washu), U.S..
 
